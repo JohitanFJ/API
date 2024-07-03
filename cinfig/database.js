@@ -1,9 +1,9 @@
 const dab = {
-    host: "roundhouse.proxy.rlwy.net",
+    host: "viaduct.proxy.rlwy.net",
     user: "root",
-    password: 'DByztHOKWbbSmkDnkCFwOHRrlWBMLFgm',
+    password: 'jKNmFmtTrGxcjYyRnUOXZSaJnKFLzSkw',
     database: 'railway',
-    port: 42476,
+    port: 54557,
 }
 
 export default dab
